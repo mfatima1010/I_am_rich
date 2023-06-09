@@ -27,19 +27,7 @@ flutter:
 Step 5: Run the app
 Connect a device or start an emulator, and then run the app using your preferred development environment. You should see the app with a simple title bar and a centered image of a diamond.
 
-Features:
 
-    Image Display: The app displays a high-quality image of a diamond in the center of the screen.
-    Title Bar: The app includes a title bar at the top, indicating the app's name ("I am Rich").
-    Material Design: The app follows the principles of Material Design, providing a clean and visually appealing user interface.
-    Asset Management: The app manages and displays the diamond image using Flutter's asset management system.
-
-Usage:
-
-    Status Symbol: The "I am Rich" app is primarily designed as a status symbol. It serves as a display of wealth and affluence for users who can afford the high price tag associated with the app.
-    Minimalistic Approach: The app intentionally offers minimal functionality, focusing solely on displaying an image of a diamond. Its simplicity is part of its charm, as it emphasizes the idea of luxury and exclusivity.
-    Conversation Starter: The app can serve as a conversation starter or an icebreaker, as people may notice it on a user's device and inquire about its purpose or meaning.
-    
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
